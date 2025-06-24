@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=XZj4hmbNdSE
+
+Video Done: 07 H: 34 M: 00 S on 23-Jun-25
+
+
+==================================
+MongoDB Website URL:::
+
+URL::  https://cloud.mongodb.com/v2/6857dee455a50c4c1c98810e#/security/network/accessList
+
+Email: fcarebd@gmail.com
+Password: dhaka123 (maybe)
+
+Database Username: fcarebd
+Database Password: fcarebd123
+=============================
+
+TIMESTAMPS :
+Backend starts at 6:51:34  
+Stripe Routes starts at 9:18:23
+Integration starts at 10:21:36
+
+=========Github===========
+
+https://github.com/maastechbd/mtlms-server
