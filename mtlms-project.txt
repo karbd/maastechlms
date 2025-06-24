@@ -22,4 +22,4 @@ Integration starts at 10:21:36
 
 =========Github===========
 
-https://github.com/maastechbd/mtlms-server
+https://github.com/maastechaz/mtlms
