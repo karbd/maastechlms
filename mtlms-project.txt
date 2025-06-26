@@ -1,4 +1,6 @@
 https://www.youtube.com/watch?v=XZj4hmbNdSE
+=================================
+
 
 Video Done: 07 H: 35 M: 00 S on 23-Jun-25
 
@@ -20,8 +22,31 @@ Backend starts at 6:51:34
 Stripe Routes starts at 9:18:23
 Integration starts at 10:21:36
 
-=========Github===========
+====Website Data Upload On Github========
 
-https://github.com/maastechaz/mtlms
+How to Upload Project to GitHub Using Visual Studio Code?
+Step_01::
+git init
+git add .
+git commit -am "initial commit"
+git remote add origin https://github.com/karbd/maastechlms.git
+git remote -v
+clear
+git push master
+Step_02::
+Open GitHub Website Repository Dashboard
+and Click On "Get Started with Github Copilot"
+ End and Enjoy.
+==============Github A/C===================
 
-https://github.com/maastechaz/lmsmaastech.git
+https://github.com/karbd/maastechlms.git
+
+Email: facrebd@gmail.com
+pw: Kazi@#$1982
+un: karbd
+Repository Name: maastechlms
+
+
+================All Saved Password URL===============
+
+chrome://password-manager/passwords
